@@ -1,0 +1,33 @@
+{
+  "installed": "2026-10-01",
+  "files": [
+    ".gitignore",
+    "CLAUDE.md",
+    "agents/architect.md",
+    "agents/code-reviewer.md",
+    "agents/performance-auditor.md",
+    "hooks/guard-asset-deletion.js",
+    "hooks/guard-runtime-code.js",
+    "hooks/guard-serialized-assets.js",
+    "hooks/guard-serialized-rename.js",
+    "hooks/lib/hook-io.js",
+    "hooks/lib/unity-project.js",
+    "hooks/review-csharp.js",
+    "hooks/session-context.js",
+    "rules/assembly-definitions.md",
+    "rules/editor-code.md",
+    "rules/serialized-assets.md",
+    "rules/shaders.md",
+    "rules/tests.md",
+    "settings.json",
+    "skills/architecture/SKILL.md",
+    "skills/async-and-lifetime/SKILL.md",
+    "skills/dots/SKILL.md",
+    "skills/editor-handoff/SKILL.md",
+    "skills/input/SKILL.md",
+    "skills/performance/SKILL.md",
+    "skills/project-report/SKILL.md",
+    "skills/serialization/SKILL.md",
+    "skills/testing/SKILL.md"
+  ]
+}
